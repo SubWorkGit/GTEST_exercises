@@ -119,6 +119,6 @@ This project is licensed under the [BSD-3-Clause License](LICENSE). See the full
 ## Acknowledgments
 
 - [Google Test](https://github.com/google/googletest) for the testing framework.
-- A examples from Google Test documentation.
+- A example from Google Test documentation.
 
 ---
